@@ -585,6 +585,7 @@
   <commonModules>CommonModule.ФизическиеЛицаКлиентСерверЛокализация</commonModules>
   <commonModules>CommonModule.ОбновлениеИнформационнойБазыЗД</commonModules>
   <commonModules>CommonModule.Общий</commonModules>
+  <commonModules>CommonModule.AX_ОбщегоНазначения</commonModules>
   <exchangePlans>ExchangePlan.ОбновлениеИнформационнойБазы</exchangePlans>
   <webServices>WebService.InterfaceVersion</webServices>
   <eventSubscriptions>EventSubscription.ВключитьРегламентноеЗаданиеПриИзмененииФункциональнойОпции</eventSubscriptions>
